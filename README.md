@@ -10,9 +10,20 @@ Intercative learning stuff and services.
 - https://habr.com/ru/company/flant/blog/484954/ Diag Scheme
 
 ## Dev
+
+### Go
 - Go https://go.dev/tour/welcome/1
+- https://quii.gitbook.io/learn-go-with-tests/
+- https://github.com/cdarwin/go-koans
+
+### Ruby
+- https://rubyrush.ru/
+- http://rubykoans.com/
+
+### Common
 - https://www.codewars.com/
 - https://checkio.org/
+- https://code-basics.com/
 
 ## Monitoring and Observability
 - https://play.grafana.org/
@@ -32,3 +43,4 @@ Intercative learning stuff and services.
   - https://wizardzines.com/
 - Brendan Gregg http://www.brendangregg.com/
 - Many cheat sheets http://www.cheat-sheets.org/
+- http://cheat.sh/
